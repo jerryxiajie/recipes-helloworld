@@ -26,7 +26,7 @@ CC ?= $(CROSS_COMPILE)gcc
 #   General options, sources and libraries
 #   ----------------------------------------------------------------------------
 NAME := helloworld
-SRCS := helloworld.c
+SRCS := HelloWorld.c
 HDRS :=
 OBJS :=
 DEBUG :=
