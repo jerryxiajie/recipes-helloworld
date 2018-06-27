@@ -4,7 +4,7 @@
 #include <string.h>
 #include <unistd.h>
 
-#include "HelloWorld.h"
+#include "helloworld.h"
 
 int main(int argc, char *argv[])
 {

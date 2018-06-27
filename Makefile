@@ -25,12 +25,12 @@ CC ?= $(CROSS_COMPILE)gcc
 #   ----------------------------------------------------------------------------
 #   General options, sources and libraries
 #   ----------------------------------------------------------------------------
-NAME := HelloWorld
-SRCS := HelloWorld.c
+NAME := helloworld
+SRCS := helloworld.c
 HDRS :=
 OBJS :=
 DEBUG :=
-BIN := HelloWorld
+BIN := helloworld
 
 
 #   ----------------------------------------------------------------------------
